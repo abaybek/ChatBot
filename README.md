@@ -5,6 +5,12 @@ Tested on thit env:
 - Python version :: Python 3.6.3 Anaconda, Inc.
 - Package manager:: Conda  4.3.31
 
+## Run
+Just run 
+```term
+python main.py
+```
+
 ## Install
 
 ### Download and install
