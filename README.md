@@ -16,13 +16,6 @@ Official distributions are available at https://conda.io/miniconda.html
 
 Create new env on conda
 ```term
-conda create --name chatbot python=3.6
-```
-
-#### Nice explonation
-Open a terminal (`Ctrl+Alt+T`) and run:
-
-```term
 conda env update -f environment.yml
 ```
 
